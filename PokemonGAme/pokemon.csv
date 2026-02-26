@@ -1,0 +1,19 @@
+Name,Type 1,HP,Attack
+Bulbasaur,Grass,45,49
+Ivysaur,Grass,60,62
+Venusaur,Grass,80,82
+Charmander,Fire,39,52
+Charmeleon,Fire,58,64
+Charizard,Fire,78,84
+Squirtle,Water,44,48
+Wartortle,Water,59,63
+Blastoise,Water,79,83
+Caterpie,Bug,45,30
+Metapod,Bug,50,20
+Butterfree,Bug,60,45
+Weedle,Bug,40,35
+Kakuna,Bug,45,25
+Beedrill,Bug,65,90
+Pidgey,Normal,40,45
+Pidgeotto,Normal,63,60
+Pidgeot,Normal,83,80
